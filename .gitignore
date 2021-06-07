@@ -1,0 +1,7 @@
+# exclude...
+composer.phar
+vendor
+node_modules
+secrets
+images
+.idea/
